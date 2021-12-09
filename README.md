@@ -8,7 +8,7 @@
 ## Technologies I work with
 - Languages : Javascript, Typescript, HTML, CSS, SCSS
 - Frameworks : React, Angular, Vue
-- Other technologies and tools : Node.js, Express, MongoDB,Git
+- Other technologies and tools : Node.js, Express, MongoDB, Git
 
 
 ## How to contact me
