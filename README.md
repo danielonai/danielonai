@@ -4,7 +4,6 @@
 
 - 👀 I’m interested in learning and developing my skills with new technologies
 - 🥊 I’m a passionate and devoted developer and I'm always looking for new challenges
-- 📫 How to reach me ...
 
 ## Technologies I work with
 - Languages : Javascript, Typescript, HTML, CSS, SCSS
