@@ -6,9 +6,9 @@
 - 🥊 I’m a passionate and devoted developer and I'm always looking for new challenges
 
 ## Technologies I work with
-- Languages : Javascript, Typescript, HTML, CSS, SCSS
-- Frameworks : React, Angular, Vue
-- Other technologies and tools : Node.js, Express, MongoDB, Git, Web Sockets
+- Languages : Javascript, Typescript, HTML, CSS, SCSS, PHP, SQL
+- Frameworks : React && React Native, Angular, Vue
+- Other technologies and tools : Node.js, Express, MongoDB, Git, Web Sockets, MySQL,  
 
 
 ## How to contact me
